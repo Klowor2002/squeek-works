@@ -4,6 +4,8 @@
 
 **A workshop tycoon whose power plant is a real hamster. The wheel is real. The watts are real. The points are not money.**
 
+**Play it live:** [GitHub Pages](https://klowor2002.github.io/squeek-works/) · [Vercel](https://squeek-works-kingklowor-project.vercel.app/) · Source: [Klowor2002/squeek-works](https://github.com/Klowor2002/squeek-works)
+
 SQUEEK WORKS is a production-chain management sim powered end-to-end by Squeekchain's live data. The watts your factory can draw right now are computed from Squeektoshi's measured wheel speed this minute. Your batteries only ever charge from distance you personally witnessed the wheel turn. Your delivery orders are born from real on-chain settlements, sized by the real work those rounds settled, and expire on the chain's own cadence. When the hamster sprints, your workshop overheats. When he naps, you are on night shift: battery creep and fast maintenance. Manage the chain — Seeds → Flour → Bread, Seeds → Oil, Bread + Oil → Snack Crates — or watch it starve and jam.
 
 This is v3, and it is a new game, not a patch. v1–v2 were a boss-raid clicker; the owner played v2 and rejected it in one sentence ("looks low effort, change the concept entirely"). The raid was scrapped whole — no bosses, no timing bar. The independent red-team critique of THIS concept is in [CRITIQUE-V3.md](CRITIQUE-V3.md) (headline: borderline fail; our point-by-point response is in there too), and the full change record is in [UPGRADE-NOTES.md](UPGRADE-NOTES.md).
